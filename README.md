@@ -1,1 +1,1 @@
-this repository contain solution and researching from kaggle
+this repository contains solutions and analysis from kaggle
