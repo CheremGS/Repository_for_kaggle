@@ -1,2 +1,3 @@
 this repository contains solutions and analysis from kaggle
-(P.S. Pls dont open folder titanic. There isn't interesting)
+(P.S: Check only .ipynb-files 
+P.P.S: Pls dont open folder titanic. There isn't interesting)
