@@ -1,2 +1,2 @@
-# inf0_2t20
-Hello giHello git
+compete House_prices from kaggle
+
