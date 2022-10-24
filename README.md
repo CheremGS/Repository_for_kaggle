@@ -1,2 +1,2 @@
-this repository contains solutions and analysis from kaggle
+EDA and modeling from kaggle data
 
